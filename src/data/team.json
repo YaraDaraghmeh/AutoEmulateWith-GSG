@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Your Name",
+    "role": "Your Role",
+    "github": "yourusername",
+    "linkedin": "Linked",
+    "image": "https://i.pravatar.cc/150?u=YourName"
+  },
+  {
+    "name": "Team Member 2",
+    "role": "Developer",
+    "github": "",
+    "linkedin": "",
+    "image": "https://i.pravatar.cc/150?u=member2"
+  },
+  {
+    "name": "Team Member 3",
+    "role": "Developer",
+    "github": "",
+    "linkedin": "",
+    "image": "https://i.pravatar.cc/150?u=member3"
+  },
+  {
+    "name": "Team Member 4",
+    "role": "Developer",
+    "github": "",
+    "linkedin": "",
+    "image": "https://i.pravatar.cc/150?u=member4"
+  },
+  {
+    "name": "Your Name 2",
+    "role": "Your Role",
+    "github": "yourusername",
+    "linkedin": "",
+    "image": "https://i.pravatar.cc/150?u=YourName2"
+  },
+  {
+    "name": "Team Member 6",
+    "role": "Developer",
+    "github": "",
+    "linkedin": "",
+    "image": "https://i.pravatar.cc/150?u=member6"
+  },
+  {
+    "name": "Team Member 7",
+    "role": "Developer",
+    "github": "",
+    "linkedin": "",
+    "image": "https://i.pravatar.cc/150?u=member7"
+  },
+  {
+    "name": "Team Member 8",
+    "role": "Developer",
+    "github": "",
+    "linkedin": "",
+    "image": "https://i.pravatar.cc/150?u=member8"
+  }
+]

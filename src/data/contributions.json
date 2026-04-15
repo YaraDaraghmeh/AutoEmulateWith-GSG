@@ -1,0 +1,65 @@
+[
+  {
+    "icon": "⚙️",
+    "title": "Add cross-validation support",
+    "desc": "Implemented k-fold CV pipeline for model evaluation",
+    "pr": "#112",
+    "status": "merged"
+  },
+  {
+    "icon": "📊",
+    "title": "Improve model benchmarking",
+    "desc": "Added comparison metrics and visualisation utilities",
+    "pr": "#98",
+    "status": "merged"
+  },
+  {
+    "icon": "🔧",
+    "title": "Refactor data preprocessing module",
+    "desc": "Cleaner API, better error handling, added unit tests",
+    "pr": "#134",
+    "status": "review"
+  },
+  {
+    "icon": "📝",
+    "title": "Documentation improvements",
+    "desc": "Expanded tutorials and added usage examples",
+    "pr": "#87",
+    "status": "merged"
+  },
+  {
+    "icon": "🐛",
+    "title": "Fix edge case in emulator fitting",
+    "desc": "Resolved issue with small dataset training failures",
+    "pr": "#145",
+    "status": "open"
+  },
+  {
+    "icon": "📊",
+    "title": "Improve model benchmarking",
+    "desc": "Added comparison metrics and visualisation utilities",
+    "pr": "#98",
+    "status": "merged"
+  },
+  {
+    "icon": "🔧",
+    "title": "Refactor data preprocessing module",
+    "desc": "Cleaner API, better error handling, added unit tests",
+    "pr": "#134",
+    "status": "review"
+  },
+  {
+    "icon": "📝",
+    "title": "Documentation improvements",
+    "desc": "Expanded tutorials and added usage examples",
+    "pr": "#87",
+    "status": "merged"
+  },
+  {
+    "icon": "🐛",
+    "title": "Fix edge case in emulator fitting",
+    "desc": "Resolved issue with small dataset training failures",
+    "pr": "#145",
+    "status": "open"
+  }
+]
