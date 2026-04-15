@@ -77,7 +77,7 @@ const cards = [
   },
   {
     title: 'Gaza Sky Geeks',
-    text: 'A tech hub and incubator in Gaza providing mentorship, training, and opportunities for Palestinian developers to contribute globally.',
+    text: 'A tech hub and incubator in Palestine providing mentorship, training, and opportunities for Palestinian developers to contribute globally.',
   },
   {
     title: 'Alan Turing Institute',
