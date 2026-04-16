@@ -57,7 +57,7 @@ export default function Navbar() {
 
   return (
     <nav style={{ ...styles.nav, ...(scrolled ? styles.navScrolled : {}) }}>
-      <span style={styles.logo}>AutoEmulate ×</span>
+      <span style={styles.logo}>AutoEmulate </span>
       <ul style={styles.links}>
         {navItems.map((item) => (
           <li key={item}>
